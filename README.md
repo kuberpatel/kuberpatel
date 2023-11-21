@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kuberpatel&label=Profile%20views&color=0e75b6&style=flat)
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kuberpatel.github.io/My-Portfolio/)
+- 👨‍💻 My Portfolio Website  [My Portfolio](https://kuberpatel.github.io/My-Portfolio/)
 
 - 💬 Ask me about **MERN**
 
