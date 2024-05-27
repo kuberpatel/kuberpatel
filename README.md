@@ -1,12 +1,11 @@
 # Hi there 👋
 
-![MasterHead]
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY0NXM0OHpuYzB0ZHZianhnNGF5OTl1ZWJkb3M5MHd6M3k2NzZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
-
 ## Hi 👋, I'm Kuber Patel
 ### A passionate full-stack-web-developer from India
 
-<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY0NXM0OHpuYzB0ZHZianhnNGF5OTl1ZWJkb3M5MHd6M3k2NzZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
+<br>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kuberpatel&label=Profile%20views&color=0e75b6&style=flat)
 
